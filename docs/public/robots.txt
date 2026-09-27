@@ -1,0 +1,26 @@
+# Robots.txt for https://huangguoai.run/
+User-agent: *
+Allow: /
+Disallow: /404
+
+# Major Search Engine Crawlers Explicit Rules
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: yisouspider
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+# Canonical Sitemap Declaration
+Sitemap: https://huangguoai.run/sitemap.xml

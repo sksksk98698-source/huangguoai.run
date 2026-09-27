@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <defs>
+    <linearGradient id="hg-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+    <linearGradient id="hg-glow" x1="20%" y1="0%" x2="80%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="hg-shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#D97706" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Background rounded squircle -->
+  <rect x="12" y="12" width="96" height="96" rx="24" fill="url(#hg-gold)" filter="url(#hg-shadow)" />
+  <rect x="12" y="12" width="96" height="96" rx="24" fill="url(#hg-glow)" />
+
+  <!-- Film perforations at top -->
+  <rect x="26" y="24" width="12" height="6" rx="2" fill="#FFFFFF" fill-opacity="0.9" />
+  <rect x="44" y="24" width="12" height="6" rx="2" fill="#FFFFFF" fill-opacity="0.9" />
+  <rect x="62" y="24" width="12" height="6" rx="2" fill="#FFFFFF" fill-opacity="0.9" />
+  <rect x="80" y="24" width="12" height="6" rx="2" fill="#FFFFFF" fill-opacity="0.9" />
+
+  <!-- Play icon / Dynamic Drama symbol in center -->
+  <path d="M48 44C48 41.2 51.1 39.4 53.6 40.9L77.6 56.9C79.8 58.4 79.8 61.6 77.6 63.1L53.6 79.1C51.1 80.6 48 78.8 48 76V44Z" fill="#FFFFFF" />
+
+  <!-- AI Sparkle at bottom right -->
+  <path d="M84 76L85.5 81.5L91 83L85.5 84.5L84 90L82.5 84.5L77 83L82.5 81.5L84 76Z" fill="#FFFFFF" fill-opacity="0.9" />
+</svg>

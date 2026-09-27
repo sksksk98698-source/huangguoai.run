@@ -1,0 +1,398 @@
+[
+  {
+    "text": "制作全流程",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "2.1.1 剧本创作",
+        "link": "/ai-drama/workflow/script/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "80集连载短剧大纲拆解术：AI辅助长篇...",
+            "link": "/ai-drama/workflow/script/80-episodes-outline"
+          },
+          {
+            "text": "如何用ChatGPT写出爽点密集的短剧...",
+            "link": "/ai-drama/workflow/script/chatgpt-drama-script"
+          },
+          {
+            "text": "AI短剧剧本创作全指南：从一句话灵感到...",
+            "link": "/ai-drama/workflow/script/complete-guide"
+          },
+          {
+            "text": "剧本版权与查重指南：避免AI生成内容抄...",
+            "link": "/ai-drama/workflow/script/copyright-and-originality"
+          },
+          {
+            "text": "DeepSeek写短剧剧本完全手册：复...",
+            "link": "/ai-drama/workflow/script/deepseek-drama-script"
+          },
+          {
+            "text": "AI短剧台词口语化润色技巧：拒绝生硬机...",
+            "link": "/ai-drama/workflow/script/dialogue-polishing"
+          },
+          {
+            "text": "短剧黄金三秒钩子公式：让完播率飙升的开...",
+            "link": "/ai-drama/workflow/script/golden-3-seconds-hook"
+          },
+          {
+            "text": "男频战神与女频豪门题材：AI短剧剧本核...",
+            "link": "/ai-drama/workflow/script/male-female-tropes"
+          },
+          {
+            "text": "小说快速提炼短剧剧本方法：核心场面提纯...",
+            "link": "/ai-drama/workflow/script/novel-to-script-extraction"
+          },
+          {
+            "text": "短剧剧本格式标准化规范：适配AI工具的...",
+            "link": "/ai-drama/workflow/script/script-formatting-standard"
+          }
+        ]
+      },
+      {
+        "text": "2.1.2 分镜设计",
+        "link": "/ai-drama/workflow/storyboard/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "镜头轴线规则（180度法则）在AI视频...",
+            "link": "/ai-drama/workflow/storyboard/180-degree-rule"
+          },
+          {
+            "text": "动作戏与追逐戏分镜设计：高动态镜头的提...",
+            "link": "/ai-drama/workflow/storyboard/action-scenes-storyboard"
+          },
+          {
+            "text": "AI分镜工具评测：StoryNode、...",
+            "link": "/ai-drama/workflow/storyboard/ai-storyboard-tools-review"
+          },
+          {
+            "text": "9种电影级景别在AI短剧中的运用：大远...",
+            "link": "/ai-drama/workflow/storyboard/camera-shots-framing"
+          },
+          {
+            "text": "AI短剧分镜设计全流程：从文本剧本到视...",
+            "link": "/ai-drama/workflow/storyboard/complete-storyboard-guide"
+          },
+          {
+            "text": "情感戏与对峙戏分镜设计：双人同框与正反...",
+            "link": "/ai-drama/workflow/storyboard/drama-emotional-scenes"
+          },
+          {
+            "text": "分镜时长与音乐卡点预估：成片剪辑节奏的...",
+            "link": "/ai-drama/workflow/storyboard/duration-and-pacing"
+          },
+          {
+            "text": "Midjourney制作短剧分镜草图全...",
+            "link": "/ai-drama/workflow/storyboard/midjourney-storyboard"
+          },
+          {
+            "text": "AI短剧分镜提示词（Prompt）撰写...",
+            "link": "/ai-drama/workflow/storyboard/storyboard-prompts-formula"
+          },
+          {
+            "text": "标准短剧分镜表模板：直接套用的Exce...",
+            "link": "/ai-drama/workflow/storyboard/storyboard-templates"
+          }
+        ]
+      },
+      {
+        "text": "2.1.3 人物一致性",
+        "link": "/ai-drama/workflow/character/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "AI人物设定图：2026年角色一致性制...",
+            "link": "/ai-drama/workflow/character/character-concept-art"
+          },
+          {
+            "text": "AI角色参考图：2026年人物一致性制...",
+            "link": "/ai-drama/workflow/character/character-reference-sheet"
+          },
+          {
+            "text": "AI漫剧角色一致性：动态漫画人物不变脸...",
+            "link": "/ai-drama/workflow/character/comic-character-consistency"
+          },
+          {
+            "text": "AI角色一致性：2026年完整教程与工...",
+            "link": "/ai-drama/workflow/character/complete-consistency-guide"
+          },
+          {
+            "text": "AI人物锁脸：2026年短剧角色一致性...",
+            "link": "/ai-drama/workflow/character/face-lock-tools"
+          },
+          {
+            "text": "AI短剧人物一致性怎么做？2026年最...",
+            "link": "/ai-drama/workflow/character/how-to-keep-characters-consistent"
+          },
+          {
+            "text": "AI角色不变脸：2026年人物一致性制...",
+            "link": "/ai-drama/workflow/character/no-face-shifting-tips"
+          },
+          {
+            "text": "AI角色三视图：2026年人物一致性制...",
+            "link": "/ai-drama/workflow/character/three-view-turnaround"
+          },
+          {
+            "text": "AI视频人物一致性：2026年完整解决...",
+            "link": "/ai-drama/workflow/character/video-character-consistency"
+          },
+          {
+            "text": "AI短剧人物为什么会变脸？2026年原...",
+            "link": "/ai-drama/workflow/character/why-characters-morph"
+          }
+        ]
+      },
+      {
+        "text": "2.1.4 视频生成",
+        "link": "/ai-drama/workflow/video/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "AI文字生成视频：2026年最佳工具与...",
+            "link": "/ai-drama/workflow/video/best-text-to-video-tools"
+          },
+          {
+            "text": "首尾帧生成视频：2026年AI视频生成...",
+            "link": "/ai-drama/workflow/video/first-last-frame-interpolation"
+          },
+          {
+            "text": "图生视频：2026年AI图生视频完整指南",
+            "link": "/ai-drama/workflow/video/image-to-video-guide"
+          },
+          {
+            "text": "图生视频AI：2026年图片生成视频工...",
+            "link": "/ai-drama/workflow/video/image-to-video-tools-list"
+          },
+          {
+            "text": "AI图生短剧：2026年图片转短剧完整...",
+            "link": "/ai-drama/workflow/video/images-to-drama-production"
+          },
+          {
+            "text": "小说生成视频：2026年AI小说转视频...",
+            "link": "/ai-drama/workflow/video/novel-to-video-creation"
+          },
+          {
+            "text": "剧本生成视频：AI短剧视频生成完整教程",
+            "link": "/ai-drama/workflow/video/script-to-video-workflow"
+          },
+          {
+            "text": "AI文生短剧：2026年文字一键生成短剧",
+            "link": "/ai-drama/workflow/video/text-to-drama-generator"
+          },
+          {
+            "text": "文生视频：2026年AI文生视频工具推...",
+            "link": "/ai-drama/workflow/video/text-to-video-guide"
+          },
+          {
+            "text": "AI文生视频提示词：2026年完整Pr...",
+            "link": "/ai-drama/workflow/video/text-to-video-prompts"
+          }
+        ]
+      },
+      {
+        "text": "2.1.5 配音与后期",
+        "link": "/ai-drama/workflow/audio-post/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "AI自动剪辑：2026年短剧剪辑工具推荐",
+            "link": "/ai-drama/workflow/audio-post/ai-auto-video-editing"
+          },
+          {
+            "text": "AI字幕生成：2026年短剧自动字幕工具",
+            "link": "/ai-drama/workflow/audio-post/ai-subtitle-generation"
+          },
+          {
+            "text": "AI视频超分：2026年短剧画质增强工具",
+            "link": "/ai-drama/workflow/audio-post/ai-video-upscaling"
+          },
+          {
+            "text": "AI配音：2026年AI短剧配音工具推...",
+            "link": "/ai-drama/workflow/audio-post/ai-voiceover-tools"
+          },
+          {
+            "text": "AI短剧后期：2026年完整后期处理流程",
+            "link": "/ai-drama/workflow/audio-post/complete-post-production"
+          },
+          {
+            "text": "AI短剧配音怎么弄？2026年完整教程",
+            "link": "/ai-drama/workflow/audio-post/how-to-do-ai-dubbing"
+          },
+          {
+            "text": "AI口型同步：2026年短剧对口型完整...",
+            "link": "/ai-drama/workflow/audio-post/lipsync-complete-tutorial"
+          },
+          {
+            "text": "AI一键成片：2026年短剧自动成片工...",
+            "link": "/ai-drama/workflow/audio-post/one-click-video-maker"
+          },
+          {
+            "text": "AI声音克隆：2026年短剧角色配音新...",
+            "link": "/ai-drama/workflow/audio-post/voice-cloning-guide"
+          },
+          {
+            "text": "AI短剧配音提示词：2026年声音生成...",
+            "link": "/ai-drama/workflow/audio-post/voice-prompts-templates"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "教程与案例",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "2.2.1 零基础教程",
+        "link": "/ai-drama/tutorial/beginner/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "新手第一部短剧避坑指南：避免浪费算力的...",
+            "link": "/ai-drama/tutorial/beginner/7-pitfalls-to-avoid"
+          },
+          {
+            "text": "如何寻找不要版权的短剧素材与音乐？合规...",
+            "link": "/ai-drama/tutorial/beginner/copyright-free-assets"
+          },
+          {
+            "text": "零基础做AI短剧第一天：新手入门必看准...",
+            "link": "/ai-drama/tutorial/beginner/day1-prep-list"
+          },
+          {
+            "text": "短剧分段时长黄金法则：单集1分钟还是3...",
+            "link": "/ai-drama/tutorial/beginner/episode-duration-rule"
+          },
+          {
+            "text": "零成本跑通首条AI短剧：全免费工具组合...",
+            "link": "/ai-drama/tutorial/beginner/free-tools-workflow"
+          },
+          {
+            "text": "做AI短剧需要什么电脑配置？2026最...",
+            "link": "/ai-drama/tutorial/beginner/hardware-requirements"
+          },
+          {
+            "text": "手机能做AI短剧吗？2026年纯手机创...",
+            "link": "/ai-drama/tutorial/beginner/mobile-phone-creation"
+          },
+          {
+            "text": "不会画画也不会剪辑：普通人如何用AI做...",
+            "link": "/ai-drama/tutorial/beginner/no-skills-needed"
+          },
+          {
+            "text": "新手如何评估自己的短剧质量？5大硬指标...",
+            "link": "/ai-drama/tutorial/beginner/quality-evaluation-metrics"
+          },
+          {
+            "text": "AI短剧制作全套流程图解：从0到1极速...",
+            "link": "/ai-drama/tutorial/beginner/workflow-infographic"
+          }
+        ]
+      },
+      {
+        "text": "2.2.2 进阶实战",
+        "link": "/ai-drama/tutorial/advanced/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "AI短剧声音空间定位：双耳立体声、环境...",
+            "link": "/ai-drama/tutorial/advanced/audio-spatialization-mixing"
+          },
+          {
+            "text": "ComfyUI专业短剧工作流搭建：节点...",
+            "link": "/ai-drama/tutorial/advanced/comfyui-drama-pipeline"
+          },
+          {
+            "text": "复杂动作场面AI生成实战：打斗、跳跃与...",
+            "link": "/ai-drama/tutorial/advanced/complex-action-scenes"
+          },
+          {
+            "text": "大规模工业化生产流：一人一天产出5集短...",
+            "link": "/ai-drama/tutorial/advanced/industrial-sop-workflow"
+          },
+          {
+            "text": "AI短剧光影一致性控制：电影级打光与色...",
+            "link": "/ai-drama/tutorial/advanced/lighting-consistency"
+          },
+          {
+            "text": "角色微表情调优：从面瘫木讷到眼神拉扯的...",
+            "link": "/ai-drama/tutorial/advanced/micro-expressions"
+          },
+          {
+            "text": "镜头节奏与蒙太奇剪辑法：用情绪剪辑提升...",
+            "link": "/ai-drama/tutorial/advanced/montage-and-pacing"
+          },
+          {
+            "text": "多人同框互动难题破解：视线对齐、站位与...",
+            "link": "/ai-drama/tutorial/advanced/multi-character-interaction"
+          },
+          {
+            "text": "场景资产库标准化：搭建可复用的豪门客厅...",
+            "link": "/ai-drama/tutorial/advanced/scene-asset-library"
+          },
+          {
+            "text": "特效与粒子融合实操：仙侠法术、赛博霓虹...",
+            "link": "/ai-drama/tutorial/advanced/vfx-particle-effects"
+          }
+        ]
+      },
+      {
+        "text": "2.2.3 题材分类",
+        "link": "/ai-drama/tutorial/genre/",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "AI爽剧：2026年爽剧题材AI短剧制...",
+            "link": "/ai-drama/tutorial/genre/addictive-fast-paced-drama"
+          },
+          {
+            "text": "AI古装短剧：2026年古装题材AI制...",
+            "link": "/ai-drama/tutorial/genre/ancient-costume-drama"
+          },
+          {
+            "text": "AI霸总短剧：2026年霸总题材短剧制...",
+            "link": "/ai-drama/tutorial/genre/ceo-tycoon-drama"
+          },
+          {
+            "text": "AI玄幻短剧：2026年玄幻题材AI短...",
+            "link": "/ai-drama/tutorial/genre/fantasy-magic-drama"
+          },
+          {
+            "text": "AI女频短剧：2026年女频题材AI制...",
+            "link": "/ai-drama/tutorial/genre/female-oriented-drama"
+          },
+          {
+            "text": "AI男频短剧：2026年男频题材AI制...",
+            "link": "/ai-drama/tutorial/genre/male-oriented-drama"
+          },
+          {
+            "text": "AI悬疑短剧：2026年悬疑题材AI短...",
+            "link": "/ai-drama/tutorial/genre/mystery-suspense-drama"
+          },
+          {
+            "text": "AI重生短剧：2026年重生题材AI短...",
+            "link": "/ai-drama/tutorial/genre/rebirth-revenge-drama"
+          },
+          {
+            "text": "AI甜宠短剧：2026年甜宠题材AI制...",
+            "link": "/ai-drama/tutorial/genre/sweet-romance-drama"
+          },
+          {
+            "text": "AI穿越短剧：2026年穿越题材AI短...",
+            "link": "/ai-drama/tutorial/genre/time-travel-drama"
+          },
+          {
+            "text": "AI逆袭短剧：2026年逆袭题材AI短...",
+            "link": "/ai-drama/tutorial/genre/underdog-comeback-drama"
+          },
+          {
+            "text": "AI都市短剧：2026年都市题材制作指南",
+            "link": "/ai-drama/tutorial/genre/urban-modern-drama"
+          }
+        ]
+      }
+    ]
+  }
+]

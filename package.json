@@ -1,0 +1,30 @@
+{
+  "name": "huangguo-ai",
+  "version": "1.0.0",
+  "description": "黄果短剧AI指南与实操全书",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "seo:check": "node scripts/seo-health-check.cjs",
+    "seo:indexnow": "node scripts/indexnow.cjs",
+    "build": "npm run docs:build && npm run seo:check"
+  },
+  "keywords": [
+    "黄果短剧",
+    "黄果AI",
+    "AI短剧",
+    "AI漫剧",
+    "短剧制作",
+    "提示词",
+    "短剧变现"
+  ],
+  "author": "黄果短剧AI团队",
+  "license": "MIT",
+  "devDependencies": {
+    "pagefind": "^1.3.0",
+    "vitepress": "^1.6.3",
+    "vitepress-plugin-pagefind": "^0.3.1"
+  }
+}
